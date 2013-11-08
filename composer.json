@@ -1,0 +1,17 @@
+{
+	"name": "silverstripe/fulltextsearch-localsolr",
+	"description": "A pre-configured, ready to use Solr instance for local development with the SilverStripe fulltextsearch module",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "solr"],
+	"authors": [
+		{
+			"name": "Hamish Friedlander",
+			"email": "hamish@silverstripe.com"
+		}
+	],
+	"require": {
+		"silverstripe/framework": "~3.1",
+		"silverstripe/fulltextsearch": "*"
+	},
+	"minimum-stability": "dev"
+}
