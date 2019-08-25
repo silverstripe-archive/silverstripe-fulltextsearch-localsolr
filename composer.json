@@ -9,7 +9,7 @@
 			"email": "hamish@silverstripe.com"
 		}
 	],
-	"require": {
+	"suggest": {
 		"silverstripe/framework": "*",
 		"silverstripe/fulltextsearch": "*"
 	},
